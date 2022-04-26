@@ -1,0 +1,13 @@
+{
+  "name": "downloadcounter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Avery Harnish <averyharnish@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "graphql-request": "^4.2.0",
+    "shelljs": "^0.8.5"
+  }
+}
